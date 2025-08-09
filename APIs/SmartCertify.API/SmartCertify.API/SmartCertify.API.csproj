@@ -16,4 +16,8 @@
     <ProjectReference Include="..\SmartCertify.Infrastructure\SmartCertify.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>

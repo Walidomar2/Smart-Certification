@@ -1,0 +1,60 @@
+# ===== Visual Studio =====
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ===== Build Results =====
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+*.log
+
+# ===== NuGet Packages =====
+*.nupkg
+**/packages/*
+!**/packages/build/
+
+# ===== Test Results =====
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# ===== Visual Studio Cache =====
+*.dbmdl
+*.pdb
+*.cache
+*.vsp
+*.vspscc
+*.vssscc
+
+# ===== Publish output =====
+publish/
+out/
+dist/
+
+# ===== Node / Angular =====
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+
+# ===== Environment Files =====
+.env
+.env.*.local
+
+# ===== Coverage =====
+coverage/
+*.lcov
+
+# ===== Temporary Files =====
+~$*
+*.tmp
+*.temp
+
+# ===== OS Generated Files =====
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
