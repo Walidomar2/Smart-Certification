@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "/OGL4bkmi8U=",
+  "dgSpecHash": "i+WX1d9g79A=",
   "success": true,
   "projectFilePath": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\SmartCertify.API\\SmartCertify.API.csproj",
   "expectedPackageFiles": [
@@ -41,6 +41,7 @@
     "C:\\Users\\Walid\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
     "C:\\Users\\Walid\\.nuget\\packages\\microsoft.sqlserver.server\\1.0.0\\microsoft.sqlserver.server.1.0.0.nupkg.sha512",
     "C:\\Users\\Walid\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\Walid\\.nuget\\packages\\scalar.aspnetcore\\2.6.8\\scalar.aspnetcore.2.6.8.nupkg.sha512",
     "C:\\Users\\Walid\\.nuget\\packages\\system.clientmodel\\1.0.0\\system.clientmodel.1.0.0.nupkg.sha512",
     "C:\\Users\\Walid\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.1\\system.configuration.configurationmanager.6.0.1.nupkg.sha512",
     "C:\\Users\\Walid\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.1\\system.diagnostics.diagnosticsource.6.0.1.nupkg.sha512",

@@ -16,3 +16,5 @@ D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infras
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infrastructure\obj\Debug\net9.0\refint\SmartCertify.Infrastructure.dll
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infrastructure\obj\Debug\net9.0\SmartCertify.Infrastructure.pdb
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infrastructure\obj\Debug\net9.0\ref\SmartCertify.Infrastructure.dll
+D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infrastructure\bin\Debug\net9.0\SmartCertify.Infrastructure.runtimeconfig.json
+D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Infrastructure\obj\Debug\net9.0\SmartCertify.Infrastructure.genruntimeconfig.cache

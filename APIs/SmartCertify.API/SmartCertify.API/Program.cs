@@ -1,4 +1,8 @@
 
+using Microsoft.EntityFrameworkCore;
+using Scalar.AspNetCore;
+using SmartCertify.Infrastructure;
+
 namespace SmartCertify.API
 {
     public class Program
@@ -8,6 +12,10 @@ namespace SmartCertify.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
+
+            builder.Services.AddDbContext<SmartCertifyContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("SmartCertifyDatabase"),
+                    providerOptions => providerOptions.EnableRetryOnFailure()));
 
             builder.Services.AddControllers();
             // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
@@ -19,6 +27,13 @@ namespace SmartCertify.API
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+
+                app.MapScalarApiReference(options =>
+                {
+                    options.Title = "SmartCertify API Reference";
+                    options.Theme = ScalarTheme.DeepSpace;
+                    options.WithSidebar(true);
+                });
             }
 
             app.UseHttpsRedirection();

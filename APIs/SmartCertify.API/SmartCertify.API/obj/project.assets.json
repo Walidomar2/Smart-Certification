@@ -658,6 +658,22 @@
           }
         }
       },
+      "Scalar.AspNetCore/2.6.8": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Scalar.AspNetCore.dll": {
+            "related": ".xml"
+          }
+        },
+        "frameworkReferences": [
+          "Microsoft.AspNetCore.App"
+        ]
+      },
       "System.ClientModel/1.0.0": {
         "type": "package",
         "dependencies": {
@@ -2100,6 +2116,23 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "Scalar.AspNetCore/2.6.8": {
+      "sha512": "2wwNX51ofrsgLNxe6n2bIuLEFcbVqp/le13nRaAs1mAuracL2tbTdIcgT89o3NmtvVa0hfBdxH5vAi1hwATqTw==",
+      "type": "package",
+      "path": "scalar.aspnetcore/2.6.8",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "README.md",
+        "icon.png",
+        "lib/net8.0/Scalar.AspNetCore.dll",
+        "lib/net8.0/Scalar.AspNetCore.xml",
+        "lib/net9.0/Scalar.AspNetCore.dll",
+        "lib/net9.0/Scalar.AspNetCore.xml",
+        "scalar.aspnetcore.2.6.8.nupkg.sha512",
+        "scalar.aspnetcore.nuspec"
+      ]
+    },
     "System.ClientModel/1.0.0": {
       "sha512": "I3CVkvxeqFYjIVEP59DnjbeoGNfo/+SZrCLpRz2v/g0gpCHaEMPtWSY0s9k/7jR1rAsLNg2z2u1JRB76tPjnIw==",
       "type": "package",
@@ -3013,6 +3046,7 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "Microsoft.AspNetCore.OpenApi >= 9.0.8",
+      "Scalar.AspNetCore >= 2.6.8",
       "SmartCertify.Application >= 1.0.0",
       "SmartCertify.Domain >= 1.0.0",
       "SmartCertify.Infrastructure >= 1.0.0"
@@ -3081,6 +3115,10 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[9.0.8, )"
+          },
+          "Scalar.AspNetCore": {
+            "target": "Package",
+            "version": "[2.6.8, )"
           }
         },
         "imports": [
