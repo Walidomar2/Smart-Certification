@@ -10,3 +10,6 @@ D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\obj\Debug\net9.0\refint\SmartCertify.Domain.dll
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\obj\Debug\net9.0\SmartCertify.Domain.pdb
 D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\obj\Debug\net9.0\ref\SmartCertify.Domain.dll
+D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\bin\Debug\net9.0\SmartCertify.Domain.runtimeconfig.json
+D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\obj\Debug\net9.0\SmartCertify.Domain.csproj.AssemblyReference.cache
+D:\courses\Smart Certification Project\APIs\SmartCertify.API\SmartCertify.Domain\obj\Debug\net9.0\SmartCertify.Domain.genruntimeconfig.cache

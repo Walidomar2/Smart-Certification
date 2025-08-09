@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE467ED-9C9E-4E3F-A69B-6A2FAC2C519A}|SmartCertify.Infrastructure\\SmartCertify.Infrastructure.csproj|d:\\courses\\smart certification project\\apis\\smartcertify.api\\smartcertify.infrastructure\\smartcertifycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE467ED-9C9E-4E3F-A69B-6A2FAC2C519A}|SmartCertify.Infrastructure\\SmartCertify.Infrastructure.csproj|solutionrelative:smartcertify.infrastructure\\smartcertifycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmartCertifyContext.cs",
+              "DocumentMoniker": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\SmartCertify.Infrastructure\\SmartCertifyContext.cs",
+              "RelativeDocumentMoniker": "SmartCertify.Infrastructure\\SmartCertifyContext.cs",
+              "ToolTip": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\SmartCertify.Infrastructure\\SmartCertifyContext.cs",
+              "RelativeToolTip": "SmartCertify.Infrastructure\\SmartCertifyContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T17:59:17.217Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
