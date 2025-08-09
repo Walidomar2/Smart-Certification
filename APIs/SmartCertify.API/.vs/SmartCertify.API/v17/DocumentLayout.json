@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69B9D50B-8729-49AD-9C9E-0997E9B703AE}|SmartCertify.API\\SmartCertify.API.csproj|d:\\courses\\smart certification project\\apis\\smartcertify.api\\smartcertify.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{69B9D50B-8729-49AD-9C9E-0997E9B703AE}|SmartCertify.API\\SmartCertify.API.csproj|solutionrelative:smartcertify.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 11,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\SmartCertify.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SmartCertify.API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\courses\\Smart Certification Project\\APIs\\SmartCertify.API\\SmartCertify.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SmartCertify.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T00:00:36.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
